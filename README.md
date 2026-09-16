@@ -132,10 +132,8 @@ description, experimental results, and discussion.
 
 ## If the code is difficult to follow...
 
-Don't worry — I can't fully read some of it anymore either.
-
-Some variable names are preserved from the original undergraduate implementation for historical authenticity.
+Don't worry — I also find parts of it difficult to read now.
 
 This is archived undergraduate research code, and some parts were written very much in the spirit of "if it works, don't touch it."
 
-For a much clearer description of the main algorithms, please refer to the pseudocode in the Appendix of my BEng dissertation.
+For a clearer explanation of the main algorithms, it is probably better to start with the **Method** section of my BEng dissertation, where the overall logic and flowcharts are easier to follow. More detailed pseudocode is included in the **Appendix**.
