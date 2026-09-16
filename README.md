@@ -134,6 +134,8 @@ description, experimental results, and discussion.
 
 Don't worry — I can't fully read some of it anymore either.
 
+Some variable names are preserved from the original undergraduate implementation for historical authenticity.
+
 This is archived undergraduate research code, and some parts were written very much in the spirit of "if it works, don't touch it."
 
 For a much clearer description of the main algorithms, please refer to the pseudocode in the Appendix of my BEng dissertation.
