@@ -101,3 +101,31 @@ The scripts use Python with the following main packages:
 
 ```bash
 pip install numpy matplotlib scipy seaborn tabulate
+```
+
+## Running
+
+For example, the local probability experiment can be run with:
+
+```bash
+python local_probability_base.py
+```
+
+The interactive prototype can be run with:
+
+```bash
+python "Interactive Battleship.py"
+```
+
+Some legacy and experimental scripts may require minor modification before
+running and are included primarily to document the development process.
+
+## Notes
+
+This repository contains research prototype code produced during an
+undergraduate individual project. The implementation evolved alongside the
+research, so naming, structure, and code organisation are not intended to
+represent a polished software library.
+
+The accompanying dissertation provides the full methodology, mathematical
+description, experimental results, and discussion.
