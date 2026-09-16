@@ -18,6 +18,14 @@ a production software package. Some files therefore contain duplicated
 implementations or earlier experimental versions and are retained to show
 the development of the project.
 
+## If the code is difficult to follow...
+
+Don't worry — I also find parts of it difficult to read now.
+
+This is archived undergraduate research code, and some parts were written very much in the spirit of "if it works, don't touch it."
+
+For a clearer explanation of the main algorithms, it is probably better to start with the **Method** section of my BEng dissertation, where the overall logic and flowcharts are easier to follow. More detailed pseudocode is included in the **Appendix**.
+
 ## Repository Structure
 
 ### Core utilities
@@ -129,11 +137,3 @@ represent a polished software library.
 
 The accompanying dissertation provides the full methodology, mathematical
 description, experimental results, and discussion.
-
-## If the code is difficult to follow...
-
-Don't worry — I also find parts of it difficult to read now.
-
-This is archived undergraduate research code, and some parts were written very much in the spirit of "if it works, don't touch it."
-
-For a clearer explanation of the main algorithms, it is probably better to start with the **Method** section of my BEng dissertation, where the overall logic and flowcharts are easier to follow. More detailed pseudocode is included in the **Appendix**.
